@@ -1,28 +1,40 @@
-name: 1217bishop
-favicon: null
-layout_spectrum: 0.5989311109296978
-typography_spectrum: 0.6336224670521915
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.5989311109296978
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 0.1038444368168712
+  brandStrength: 0.3552977743092924
+  rhythmicContrast: 0.4322576858103275
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.35529777430929244
   lightness: 0.9744884818792343
-  saturation: 0.10384443681687117
-  rhythmicContrast: 0.43225768581032753
 purpose: []
+favicon: null
+name: 1217bishop
+typography_spectrum: 0.6336224670521915
