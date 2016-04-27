@@ -1,7 +1,5 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+name: 1217bishop
 opengraph:
   image: null
   type: null
@@ -24,17 +22,19 @@ color:
   brandStrength: 1
   lightness: 0.9744884818792343
   brandColors:
-    - '#00000A'
-    - '#50310E'
-    - '#115479'
-    - '#B5A48C'
-    - '#F1F5DB'
+    - '#F2EEE3'
+    - '#043174'
+    - '#000940'
+    - '#817F80'
+    - '#B7B6B1'
   rhythmicContrast: 0.4322576858103275
 typography_spectrum: 0.7939068
+layout_spectrum: 0.5670426
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.5670426
-favicon: null
-name: 1217bishop
+analytics:
+  twitter: null
+  google: null
+  facebook: null
