@@ -1,0 +1,28 @@
+name: 1217bishop
+favicon: null
+layout_spectrum: 0.5989311109296978
+typography_spectrum: 0.6336224670521915
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.35529777430929244
+  lightness: 0.9744884818792343
+  saturation: 0.10384443681687117
+  rhythmicContrast: 0.43225768581032753
+purpose: []
