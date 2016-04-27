@@ -1,5 +1,7 @@
-favicon: null
-name: 1217bishop
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -10,31 +12,29 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+    permalink:
+      path: '/:title/'
+layout_spectrum: 1
 color:
   saturation: 0.1038444368168712
   brandStrength: 0.3552977743092924
-  lightness: 0.9744884818792343
+  rhythmicContrast: 0.4322576858103275
   brandColors:
     - '#F2EEE3'
     - '#043174'
     - '#000940'
     - '#817F80'
     - '#B7B6B1'
-  rhythmicContrast: 0.4322576858103275
-typography_spectrum: 0.7939068
-layout_spectrum: 1
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+  lightness: 0.9744884818792343
+purpose: []
 cta:
   bucket: null
   version: null
   domain: null
+favicon: null
+name: 1217bishop
+typography_spectrum: 0.7939068
